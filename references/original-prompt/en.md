@@ -1,0 +1,5 @@
+# XXD Panel 081 · Faithful English Reading Translation
+
+Panel 081 converts each photograph into a separate 3:4 poster: reality above, and below a memory-filtered commemorative image drawn with an even-weight monoline system and limited spot colours. Open contours, broken edges, restrained wobble, line subtraction, density hierarchy, and generous warm-white paper create a travel atlas / architectural diagram feeling without mechanical vector polish.
+
+Extract 2–4 vivid source colours and let coloured lines—not black outlines plus fills—carry information. Use line density, brightness, and colour coding for depth; add slight grain, registration offset, and uneven ink like risograph or screen print. Compose asymmetrically around one visual core, preserving negative space for air, distance, pause, and emotion. Sparse handwritten linear typography may enter the whitespace or follow the subject direction. Avoid realistic drawing, full backgrounds, sticker-like cartoon elements, collage clutter, and commercial templates.
