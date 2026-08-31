@@ -14,16 +14,23 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 081 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 081 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
@@ -34,9 +41,9 @@ Edge-tracing filters mechanically copy everything, while complete watercolour sc
 
 ### Best for
 
-- architecture, travel, and field observation built from forceful straight lines, turns, planes, and proportions;
-- an alive unfinished quality formed by exploratory repeats, breaks, offsets, and unresolved edges;
-- colour that comes from the photograph but remains sparse, transparent, and subordinate to ink and paper;
+- turning a photograph into a private keepsake atlas through only the people, places, objects, and relationships worth remembering;
+- avoiding black-outline cartoon styling by letting 2–4 source-derived spot-colour lines carry contour, structure, and hierarchy;
+- creating editorial order and emotional space through open contours, density levels, asymmetry, and broad warm-white paper;
 - top-bottom, left-right, design-only, multi-ratio, wallpaper, and directory-batch delivery.
 
 ### Quick start
