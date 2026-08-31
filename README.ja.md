@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 081
+# 🦁 XXD Panel 081｜色糸の記念帳
 
 ### 均一な彩色モノラインで写真を限定色の私的な記念ポスターへ
 

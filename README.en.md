@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 081
+# 🦁 XXD Panel 081｜Colored-Thread Keepsake Album
 
 ### Turn the photograph into a limited-ink personal keepsake drawn with even-weight coloured monolines
 

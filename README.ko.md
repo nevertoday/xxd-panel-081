@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 081
+# 🦁 XXD Panel 081｜색실 기념 앨범
 
 ### 균일한 컬러 모노라인으로 사진을 제한색 개인 기념 포스터로 바꿉니다
 

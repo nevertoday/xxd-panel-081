@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 081
+# 🦁 XXD Panel 081｜彩线纪念册
 
 ### 用等粗彩色单线，把照片变成限色专印的私人纪念海报
 
