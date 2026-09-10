@@ -47,6 +47,15 @@ Edge-tracing filters mechanically copy everything, while complete watercolour sc
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -65,22 +74,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | It preserves defining identity, contour, pose, space, and narrative relationship; colour comes only from recognisable source hues |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-extract identity, contour, pose, and narrative relationship → symbolise memory with an even-weight monoline → simplify complex regions into repeated marks and density levels → extract 2–4 vivid source colours as spot-ink lines → add grain, registration shift, and uneven ink → compose asymmetrically around one core → let warm-white space and sparse handwritten notes carry the private narrative
-```
-
-## Recognisable finished traits
-
-- Outer and inner lines keep near-equal visual weight: they describe shape and structure rather than realistic volume.
-- Architecture and objects use geometric frameworks; people, plants, animals, and natural forms use softer organic gestures.
-- Dense repeated marks aggregate complex areas while sparse lines release the background and preserve depth.
-- Coloured lines carry information directly; there is no default black outline plus coloured fill.
-- One clear visual core and asymmetric spacing guide the eye; warm-white space carries air, distance, pause, and emotion.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-081-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
