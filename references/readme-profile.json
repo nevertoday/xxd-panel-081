@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 081｜Colored-Thread Keepsake Album: turns the people, places, objects and relationships in a photo into a few memory symbols drawn in even-weight monoline with open, broken outlines and a slight wobble — geometric structural lines for buildings and objects, softer organic curves for people, plants and animals — where two to four coloured lines from the photo (no black outline, no colour fill) encode the layers through colour, line density and value, with light grain, off-register and uneven ink like Risograph or screen print, an asymmetric layout on generous warm-white paper and a few words in thin, slightly drifting linear handwriting. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-081 or asks for coloured monoline, limited-colour risograph line drawing or keepsake travel-map style illustration from a photo.",
+  "short_description": "彩线纪念册：用两到四种照片色的等粗单线，把照片画成限色专印的私人纪念海报",
+  "zh-CN": {
+    "name": "彩线纪念册",
+    "tagline": "用两到四种照片里的颜色画等粗单线，把照片变成一张限色印刷的私人纪念海报。",
+    "look": "照片里的人物、地点、物件和关系被压成少量记忆符号，全部用粗细几乎一致的单线画出：轮廓常常不闭合、会断开，带轻微抖动和错位。建筑、器物用横竖斜线和弧线搭结构，人物、植物、动物用更柔软的曲线；复杂处用重复的小线条聚成大形，重点处线更密、颜色更深。没有黑色描边，也不填色，两到四种取自照片的彩线直接分出层次，带轻微颗粒、套印偏差和不均匀着墨，像 Risograph 印刷。版面不对称，暖白纸面大量留空，几句纤细、略带偏移的手写字穿插其间。",
+    "traits": ["开放轮廓", "线密度层级", "2–4色专印", "Risograph颗粒", "暖白留白", "记忆符号化"],
+    "good": [
+      "旅行纪念照：街角咖啡馆、老城门、海边灯塔、一辆有轨电车",
+      "人与地点的关系：在公园长椅上的两个人、站在桥上的背影、店门口的老板",
+      "有几样值得记住的物件的画面：野餐布上的食物、书桌、花店门口"
+    ],
+    "poor": [
+      "依赖光影、体积和质感的照片：人像特写、金属产品、夜景灯光",
+      "画面平淡、没有可提炼线索的空镜头：一片纯色天空、一面白墙",
+      "想要黑色描边加填色、写实素描、机械矢量或卡通贴纸的需求"
+    ]
+  },
+  "en": {
+    "name": "Colored-Thread Keepsake Album",
+    "tagline": "Draws your photo in even-weight lines of two to four of its own colours, as a limited-ink personal keepsake poster.",
+    "look": "The people, places, objects and relationships in the photo become a few memory symbols, all drawn in single lines of almost the same width, with outlines that often stay open or break, plus a slight wobble and offset. Buildings and objects get a structure of straight lines and arcs, while people, plants and animals get softer curves; busy areas are built from repeated small strokes, and the focus has denser lines and deeper colour. There is no black outline and no fill: two to four coloured lines from the photo carry the layers, with light grain, off-register printing and uneven ink like a Risograph print. The layout is asymmetric on generous warm-white paper, with a few lines of thin, slightly drifting handwriting woven in.",
+    "traits": ["Open outlines", "Line-density layers", "2–4 spot colours", "Risograph grain", "Warm-white space", "Memory as symbols"],
+    "good": [
+      "Travel keepsakes: a corner café, an old city gate, a seaside lighthouse, a tram",
+      "People and places together: two people on a park bench, a figure on a bridge, a shopkeeper at the door",
+      "Scenes with a few things worth remembering: food on a picnic blanket, a desk, a flower shop entrance"
+    ],
+    "poor": [
+      "Photos that rely on light, volume and texture: close-up portraits, metal products, night lights",
+      "Flat empty shots with nothing to pick out: a plain sky, a white wall",
+      "Requests for black outlines with colour fill, realistic sketching, mechanical vectors or cartoon stickers"
+    ]
+  },
+  "ja": {
+    "name": "色糸の記念帳",
+    "tagline": "写真の色から選んだ二〜四色の均一な線で、写真を限定色刷りの私的な記念ポスターにします。",
+    "look": "写真の人物、場所、物、関係は少数の記憶の記号になり、すべてほぼ同じ太さの一本線で描かれます。輪郭は閉じないことや途切れることが多く、少し震えてずれています。建物や器物は縦・横・斜めの直線と弧で構造を組み、人物、植物、動物はより柔らかな曲線で描きます。込み入った部分は小さな線の繰り返しで大きな形にまとめ、焦点ほど線が密で色が濃くなります。黒い輪郭も塗りもなく、写真から取った二〜四色の色線がそのまま層を分け、軽い粒子、版ずれ、インクのむらがリソグラフ印刷のようです。レイアウトは非対称で、温かな白い紙に余白を大きくとり、細く少し揺れる手書きの数行が織り込まれます。",
+    "traits": ["開いた輪郭", "線の密度による階層", "2〜4色の特色刷り", "リソグラフの粒子", "温かな白の余白", "記憶の記号化"],
+    "good": [
+      "旅の記念写真：街角のカフェ、古い城門、海辺の灯台、路面電車",
+      "人と場所の関係：公園のベンチの二人、橋の上の後ろ姿、店先の店主",
+      "覚えておきたい物がいくつかある場面：ピクニックシートの食べ物、机、花屋の店先"
+    ],
+    "poor": [
+      "光、量感、質感に頼る写真：人物のアップ、金属製品、夜の灯り",
+      "拾える手がかりのない平板な空の写真：無地の空、白い壁",
+      "黒い輪郭と塗り、写実的なデッサン、機械的なベクター、漫画のステッカーを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "색실 기념 앨범",
+    "tagline": "사진 속 두세 가지에서 네 가지 색으로 굵기가 같은 선을 그어, 사진을 제한색으로 찍은 개인 기념 포스터로 만듭니다.",
+    "look": "사진 속 사람, 장소, 물건, 관계는 몇 개의 기억 기호가 되고, 모두 굵기가 거의 같은 한 줄 선으로 그려집니다. 윤곽은 닫히지 않거나 끊기는 경우가 많고, 살짝 떨리며 어긋납니다. 건물과 사물은 가로·세로·사선과 호로 구조를 세우고, 사람, 식물, 동물은 더 부드러운 곡선으로 그립니다. 복잡한 부분은 작은 선을 반복해 큰 형태로 모으고, 초점일수록 선이 촘촘하고 색이 짙어집니다. 검은 윤곽도 채색도 없이 사진에서 가져온 두세 가지에서 네 가지 색선이 바로 층을 나누며, 옅은 입자와 인쇄 어긋남, 고르지 않은 잉크가 리소그래프 인쇄 같습니다. 배치는 비대칭이고 따뜻한 흰 종이에 여백이 넓으며, 가늘고 살짝 흔들리는 손글씨 몇 줄이 사이사이 들어갑니다.",
+    "traits": ["열린 윤곽", "선 밀도 위계", "2~4색 별색 인쇄", "리소그래프 입자", "따뜻한 흰 여백", "기억의 기호화"],
+    "good": [
+      "여행 기념사진: 길모퉁이 카페, 옛 성문, 바닷가 등대, 노면전차",
+      "사람과 장소의 관계: 공원 벤치의 두 사람, 다리 위의 뒷모습, 가게 앞 주인",
+      "기억할 만한 물건이 몇 가지 있는 장면: 피크닉 매트 위 음식, 책상, 꽃집 입구"
+    ],
+    "poor": [
+      "빛, 부피, 질감에 기대는 사진: 인물 클로즈업, 금속 제품, 야간 조명",
+      "뽑아낼 단서가 없는 밋밋한 빈 화면: 단색 하늘, 흰 벽",
+      "검은 윤곽에 채색, 사실적인 소묘, 기계적인 벡터, 만화 스티커를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ألبوم ذكريات بالخيوط الملونة",
+    "tagline": "يرسم صورتك بخطوط متساوية السماكة من لونين إلى أربعة من ألوانها، كملصق تذكاري شخصي بألوان طباعة محدودة.",
+    "look": "يتحوّل الأشخاص والأماكن والأشياء والعلاقات في الصورة إلى رموز ذكرى قليلة، تُرسم كلها بخط مفرد شبه ثابت السماكة، بمحيطات تبقى مفتوحة أو تنقطع كثيراً، مع ارتعاش وانزياح خفيفين. تُبنى المباني والأشياء بخطوط مستقيمة وأقواس، وتُرسم الشخصيات والنباتات والحيوانات بمنحنيات أنعم؛ وتتشكل المناطق المزدحمة من ضربات صغيرة متكررة، وتكون الخطوط أكثف واللون أعمق في موضع التركيز. لا خط أسود ولا تعبئة: لونان إلى أربعة ألوان مأخوذة من الصورة تحمل الطبقات مباشرة، مع حبيبات خفيفة وانزياح طباعي وحبر غير متساوٍ كطباعة الريزوغراف. التخطيط غير متماثل على ورق أبيض دافئ وفراغ وفير، وتتخلله بضعة أسطر بخط يد رفيع يتمايل قليلاً.",
+    "traits": ["محيطات مفتوحة", "طبقات بكثافة الخطوط", "2–4 ألوان طباعة", "حبيبات ريزوغراف", "فراغ أبيض دافئ", "الذكرى رموزاً"],
+    "good": [
+      "تذكارات السفر: مقهى على ناصية، بوابة مدينة قديمة، منارة ساحلية، ترام",
+      "الناس والأماكن معاً: شخصان على مقعد في حديقة، شخص على جسر، صاحب متجر عند بابه",
+      "مشاهد فيها بضعة أشياء تستحق التذكّر: طعام على بساط نزهة، مكتب، مدخل محل زهور"
+    ],
+    "poor": [
+      "صور تعتمد على الضوء والحجم والملمس: صور الوجوه القريبة، المنتجات المعدنية، أضواء الليل",
+      "لقطات فارغة مسطّحة لا شيء فيها يُلتقط: سماء سادة، جدار أبيض",
+      "طلب خط أسود مع تعبئة لونية أو رسم واقعي أو متجهات آلية أو ملصقات كرتونية"
+    ]
+  }
+}
